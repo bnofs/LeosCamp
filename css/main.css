@@ -40,12 +40,18 @@ h3 {
   padding-right: 2rem;
 }
 
+#nav-link {
+  padding: 0.5rem 1rem;
+}
+
 .collapsing {
   padding-top: 1rem;
+  padding-left: 0;
 }
 
 .show {
   padding-top: 1rem;
+  padding-left: 0;
 }
 
 .carousel {
