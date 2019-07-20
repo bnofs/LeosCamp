@@ -40,6 +40,14 @@ h3 {
   padding-right: 2rem;
 }
 
+.collapsing {
+  padding-top: 1rem;
+}
+
+.show {
+  padding-top: 1rem;
+}
+
 .carousel {
   margin-top: 35px;
 }
