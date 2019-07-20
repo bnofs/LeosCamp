@@ -6,7 +6,7 @@
 body {
   padding-top: 56px;
   font-family: 'Arial Narrow', 'Arial';
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 h3 {
@@ -29,7 +29,7 @@ h3 {
 
 .logo {
   width: 75px;
-  margin-right: .5rem;
+  margin-right: 20px;
 }
 
 .navbar {
@@ -37,7 +37,7 @@ h3 {
   opacity: 0.9;
   margin-bottom: 0;
   border-bottom: solid rgb(50, 50, 50) 2px;
-  padding-right: 1.5rem;
+  padding-right: 2rem;
 }
 
 .carousel {
