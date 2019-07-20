@@ -5,6 +5,12 @@
  */
 body {
   padding-top: 56px;
+  font-family: 'Arial Narrow';
+  font-size: 1.1rem;
+}
+
+h3 {
+  font-size: 2rem;
 }
 
 .carousel-item {
@@ -19,4 +25,73 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+
+.logo {
+  width: 75px;
+  margin-right: 20px;
+}
+
+#navbar {
+  background-color: white !important;
+  opacity: 0.9;
+  margin-bottom: 0;
+  border-bottom: solid rgb(50, 50, 50) 2px;
+}
+
+.carousel {
+  margin-top: 35px;
+}
+
+.card-body {
+  padding: .75rem;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.footer {
+  margin-top: 50px;
+  padding-top: 30px;
+  border-top: solid rgb(100, 100, 100) 1px;
+  margin-bottom: -20px;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 1.5rem !important;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 0px;
+  color: black;
+}
+
+.footer .fa:hover {
+  opacity: 0.5;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.footer-text {
+  font-size: 1rem;
+}
+
+#fa-small {
+  font-size: 1.25rem !important;
+  width: 40px;
+}
+
+.form-control {
+  display: inline-block;
+  width: 100%;
+}
+
+.form-group {
+  margin-bottom: .5rem;
+}
+
+label {
+  margin-bottom: 0;
 }
